@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+python-dotenv
+openai
+pinecone
+azure-storage-blob
+PyPDF2
+python-docx
